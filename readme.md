@@ -1,3 +1,11 @@
+## Download
+
+Download this repository using the following command:
+
+	git clone --recursive https://github.com/fredrikcarno/flyerpic.git
+	
+## Installation
+
 ### 1. Install Lychee
 
 Install Lychee using the public documentation from [GitHub](https://github.com/electerious/Lychee/blob/master/docs/Installation.md).
@@ -18,9 +26,9 @@ Install lychee-watermark using the public documentation from [GitHub](https://gi
 
 Install lychee-redirect using the public documentation from [GitHub](https://github.com/electerious/lychee-redirect).
 
-### 6. Install miniLychee
+### 6. Install Frontend
 
-Install miniLychee next to the Lychee-folder using the `readme.md` in the folder of miniLychee.
+Install the Frontend next to the Lychee-folder using the `readme.md` in the folder of the Frontend.
 
 ### 7. Install libqrencode
 
