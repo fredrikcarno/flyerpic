@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://electerious@github.com/fredrikcarno/flyerpic-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://electerious@github.com/fredrikcarno/flyerpic-frontend
+[submodule "lychee"]
+	path = lychee
+	url = https://github.com/electerious/Lychee.git
