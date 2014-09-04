@@ -47,7 +47,13 @@ Install [ZBar](http://zbar.sourceforge.net). Check if the command `zbarimg` is w
 Install [Poppler](http://poppler.freedesktop.org). Check if the command `pdfunite` is working in the command-line after the installation.
 
 	sudo apt-get install poppler-utils
+	
+### 9. Install PhantomJS
 
-### 9. Install Backend
+Install [PhantomJS](http://phantomjs.org).
+
+	npm install -g phantomjs
+
+### 10. Install Backend
 
 Install the Backend next to the Lychee-folder using the `readme.md` in the folder of the Backend.
