@@ -22,15 +22,11 @@ Open the `.htaccess` from the root of Lychee and uncomment the lines to allow ac
 
 Install lychee-watermark using the public documentation from [GitHub](https://github.com/electerious/lychee-watermark).
 
-### 5. Install lychee-redirect
-
-Install lychee-redirect using the public documentation from [GitHub](https://github.com/electerious/lychee-redirect).
-
-### 6. Install Frontend
+### 5. Install Frontend
 
 Install the Frontend next to the Lychee-folder using the `readme.md` in the folder of the Frontend.
 
-### 7. Install libqrencode
+### 6. Install libqrencode
 
 Install `libqrencode` C library. This dependency is used by [node-qr](https://github.com/bcelenza/node-qr) which includes a documentation on how to install the library.
 
