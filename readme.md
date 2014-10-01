@@ -26,30 +26,24 @@ Install lychee-watermark using the public documentation from [GitHub](https://gi
 
 Install the Frontend next to the Lychee-folder using the `readme.md` in the folder of the Frontend.
 
-### 6. Install libqrencode
-
-Install `libqrencode` C library. This dependency is used by [node-qr](https://github.com/bcelenza/node-qr) which includes a documentation on how to install the library.
-
-	sudo apt-get install qrencode
-
-### 7. Install ZBar
+### 6. Install ZBar
 
 Install [ZBar](http://zbar.sourceforge.net). Check if the command `zbarimg` is working in the command-line after the installation.
 
 	sudo apt-get install zbar-tools
 
-### 8. Install Poppler
+### 7. Install Poppler
 
 Install [Poppler](http://poppler.freedesktop.org). Check if the command `pdfunite` is working in the command-line after the installation.
 
 	sudo apt-get install poppler-utils
 	
-### 9. Install PhantomJS
+### 8. Install PhantomJS
 
 Install [PhantomJS](http://phantomjs.org).
 
 	npm install -g phantomjs
 
-### 10. Install Backend
+### 9. Install Backend
 
 Install the Backend next to the Lychee-folder using the `readme.md` in the folder of the Backend.
